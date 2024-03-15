@@ -226,3 +226,4 @@ class Empresa:
     # @return Respuesta 2.
     def metodo4(self):
         return f"el Ahorro  es de: {self.descuento}"
+    #xd
